@@ -1,0 +1,5 @@
+/node_modules/ 
+theory-lectures.pdf    # Ignore a specific file
+.env
+/dev-data/
+/textcodes/
